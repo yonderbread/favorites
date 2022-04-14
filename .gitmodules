@@ -1,0 +1,99 @@
+[submodule "audacium"]
+	path = repos/audacium
+	url = https://github.com/SartoxSoftware/audacium
+[submodule "zrythm"]
+	path = repos/zrythm
+	url = https://git.sr.ht/~alextee/zrythm
+[submodule "FoxMagiskModuleManager"]
+	path = repos/FoxMagiskModuleManager
+	url = https://github.com/Fox2Code/FoxMagiskModuleManager
+[submodule "croc"]
+	path = repos/croc
+	url = https://github.com/schollz/croc
+[submodule "tldr"]
+	path = repos/tldr
+	url = https://github.com/tldr-pages/tldr
+[submodule "crocgui"]
+	path = repos/crocgui
+	url = https://github.com/howeyc/crocgui
+[submodule "srv"]
+	path = repos/srv
+	url = https://github.com/joshuarli/srv
+[submodule "caddy-ftp"]
+	path = repos/caddy-ftp
+	url = https://github.com/n0trace/caddy-ftp
+[submodule "rpcs3"]
+	path = repos/rpcs3
+	url = https://github.com/RPCS3/rpcs3
+[submodule "diff-so-fancy"]
+	path = repos/diff-so-fancy
+	url = https://github.com/so-fancy/diff-so-fancy
+[submodule "gogs"]
+	path = repos/gogs
+	url = https://github.com/gogs/gogs
+[submodule "Telegram-FOSS"]
+	path = repos/telegram-foss
+	url = https://github.com/Telegram-FOSS-Team/Telegram-FOSS
+[submodule "jtar"]
+	path = repos/jtar
+	url = https://github.com/topjohnwu/jtar
+[submodule "libsu"]
+	path = repos/libsu
+	url = https://github.com/topjohnwu/libsu
+[submodule "Magisk"]
+	path = repos/magisk
+	url = https://github.com/topjohnwu/Magisk
+[submodule "magisk-files"]
+	path = repos/magisk-files
+	url = https://github.com/topjohnwu/magisk-files
+[submodule "RestSMS"]
+	path = repos/restsms
+	url = https://github.com/Xcreen/RestSMS
+[submodule "SimpleRT"]
+	path = repos/simplert
+	url = https://github.com/robinpaulson/SimpleRT
+[submodule "Simple-Notes"]
+	path = repos/simple-notes
+	url = https://github.com/RafhaanShah/Simple-Notes
+[submodule "AriaNg"]
+	path = repos/ariang
+	url = https://github.com/mayswind/AriaNg
+[submodule "termux-exec"]
+	path = repos/termux-exec
+	url = https://github.com/termux/termux-exec
+[submodule "android-shell-scripts"]
+	path = repos/android-shell-scripts
+	url = https://github.com/sujaydavalgi/android-shell-scripts
+[submodule "awesome-ssh"]
+	path = repos/awesome-ssh
+	url = https://github.com/moul/awesome-ssh
+[submodule "SophiApp"]
+	path = repos/sophiapp
+	url = https://github.com/Sophia-Community/SophiApp
+[submodule "jumpfm"]
+	path = repos/jumpfm
+	url = https://github.com/JumpFm/jumpfm
+[submodule "FastForward"]
+	path = repos/fastforward
+	url = https://github.com/FastForwardTeam/FastForward
+[submodule "SoftX"]
+	path = repos/softx
+	url = https://github.com/DiscordStyles/SoftX
+[submodule "gtkcord3"]
+	path = repos/gtkcord3
+	url = https://github.com/diamondburned/gtkcord3
+[submodule "holehe"]
+	path = repos/holehe
+	url = https://github.com/megadose/holehe
+[submodule "css"]
+	path = repos/primer-css
+	url = https://github.com/primer/css
+[submodule "bd-scss"]
+	path = repos/bd-scss
+	url = https://github.com/Gibbu/bd-scss
+[submodule "create-cert"]
+	path = repos/create-cert
+	url = https://github.com/lukechilds/create-cert
+[submodule "s"]
+	path = repos/s
+	url = https://github.com/grobertson/s
